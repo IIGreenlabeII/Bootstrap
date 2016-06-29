@@ -1,0 +1,147 @@
+/* 
+Gemaakt door Shailin Biharie
+
+
+*/
+body{
+	background-color: #FFFDF2;
+	font-family: 'Signika', sans-serif;
+}
+
+.full{
+	height: 100%;
+	width: 100%;
+}
+
+.resize-welkom {
+	margin-top: 60px;
+	padding-left: 100px;
+	height: 50%;
+	width: 48%;
+}
+
+.logo {
+	height: 8%;
+	width: 16%;
+}
+
+#theCarousel{
+	margin-top: 125px;
+}
+
+.intro-text{
+	margin-top: 45px;
+	font-size: 1.2em;
+}
+
+.info-text{
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+
+.space{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.list-inline a{
+	color: #005fa9 !important;
+	font-size: 1.2em;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.list-inline a:hover{
+	color:#00A8E3 !important;
+}
+
+.hamburger{
+	margin-left: -20px;
+	margin-top: 5px;
+}
+
+.verkeerschool{
+	color: #005fa9;
+}
+
+.size{
+	font-size: 1.2em;
+	margin-top: 25px;
+	margin-bottom: 25px;	
+}
+
+.contact-text{
+	padding-bottom: 45px;
+	font-size: 1.2em;
+	background-color: #f6f6f6;
+	color: #f5f5f5;
+}
+
+#aanhangT, #motorT, #autoT{
+	display: none;
+}
+
+.dropdown-toggle a{
+	color: #005fa9;
+}
+
+.grey{
+	background-color: #f6f6f6;
+}
+
+.grey table{
+	color: #333;
+}
+
+.resize{
+	width: 20%;
+	height: 20%;
+}
+
+.margin_top{
+	margin-top: 115px;
+}
+
+.twee{
+  	margin-top: -130px;
+}
+
+.cbr{
+  	margin-top: -210px;
+}
+
+.digid{
+	margin-right: -200px;
+  	margin-top: -220px;
+}
+
+.social{
+	margin-top: -270px;
+}
+
+.padding {
+	margin-top: 210px;
+	margin-left: 445px;
+
+}
+
+.call a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.trans{
+	background-color:  #FFFDF2 !important;
+	text-align: center;
+	border-top: 1px solid #FFFDF2 !important;
+	border-bottom: 1px solid #FFFDF2 !important;
+}
+
+.transp{
+	margin-top: 20px;
+}
+
+.black{
+	color: black !important;
+	text-decoration: none;
+}
